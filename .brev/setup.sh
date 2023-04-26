@@ -77,7 +77,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 . ~/.zshrc
 nvm install node
 
-npm i -D dalai
+npm i
 npx dalai llama install 7B
 
 git clone https://github.com/yoheinakajima/babyagi
